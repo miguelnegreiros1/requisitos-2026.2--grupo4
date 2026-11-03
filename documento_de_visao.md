@@ -46,14 +46,12 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 #### F1.1 Feed Dinâmico de Oportunidades
 - **Descrição:** Exibe um feed personalizado na página inicial com postagens recentes, editais em destaque e recomendações com base no curso e histórico do aluno.
-- **Status:** Incluída
 - **Atores:** Estudantes de Graduação
 - **Frequência:** Alta
 - **Valor:** Alto
 
 #### F1.2 Filtros de Busca Avançada
 - **Descrição:** Permite buscar oportunidades filtrando por país, universidade parceira, área de conhecimento, tipo de bolsa e prazo de inscrição.
-- **Status:** Incluída
 - **Atores:** Estudantes de Graduação
 - **Frequência:** Alta
 - **Valor:** Alto
@@ -64,14 +62,12 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 #### F2.1 Cadastro e Edição de Editais
 - **Descrição:** Permite ao NEI cadastrar novos editais, especificando prazos, requisitos, número de vagas e documentação exigida.
-- **Status:** Incluída
 - **Atores:** NEI
 - **Frequência:** Média
 - **Valor:** Alto
 
 #### F2.2 Integração com Requisitos de Universidades Estrangeiras
 - **Descrição:** Permite vincular as vagas às exigências específicas das universidades parceiras (ex: proficiência em idiomas).
-- **Status:** Incluída
 - **Atores:** NEI, Universidades Estrangeiras
 - **Frequência:** Baixa
 - **Valor:** Médio
@@ -82,21 +78,18 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 #### F3.3 Cadastro e Gestão de Perfil do Estudante
 - **Descrição:** Permite ao estudante criar e gerenciar seu perfil na plataforma. O sistema deve carregar automaticamente os dados acadêmicos oficiais do sistema institucional (curso, média global/IRA, % de carga horária concluída e histórico de reprovações) e permitir que o aluno complemente o perfil com foto, resumo/biografia, proficiência em idiomas e áreas de interesse para recomendação de oportunidades.
-- **Incluída**
 - **Atores:** Estudante de Graduação, Sistema Institucional
 - **Frequência:** Alta
 - **Valor:** Alto
 
 #### F3.2 Verificação Automática de Elegibilidade
 - **Descrição:** Cruzamento automático dos dados acadêmicos do aluno (ex: média global e percentual concluído) com as regras do edital para sinalizar se ele está apto a concorrer.
-- **Status:** Incluída
 - **Atores:** Sistema, Estudante
 - **Frequência:** Alta
 - **Valor:** Alto
 
 #### F3.3 Manifestação de Interesse e Acompanhamento
 - **Descrição:** Permite ao estudante enviar a documentação necessária e acompanhar o status de sua candidatura em tempo real (em análise, aprovado, pendente).
-- **Status:** Incluída
 - **Atores:** Estudante, NEI
 - **Frequência:** Alta
 - **Valor:** Alto
@@ -107,21 +100,18 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 #### F4.1 Usabilidade e Design Responsivo
 - **Descrição:** A interface deve ser fluida e amigável (inspirada no LinkedIn), funcionando perfeitamente em computadores e dispositivos móveis.
-- **Status:** Incluída
 - **Atores:** Todos os usuários
 - **Frequência:** Sempre
 - **Valor:** Alto
 
 #### F4.2 Desempenho do Sistema
 - **Descrição:** O feed e as buscas de editais devem carregar em até 2 segundos, mesmo em períodos de pico de inscrições.
-- **Status:** Incluída
 - **Atores:** Todos
 - **Frequência:** Sempre
 - **Valor:** Alto
 
 #### F4.3 Segurança e Privacidade de Dados (LGPD)
 - **Descrição:** Proteção rigorosa de dados pessoais e históricos acadêmicos dos estudantes armazenados na plataforma.
-- **Status:** Incluída
 - **Atores:** Administração de TI
 - **Frequência:** Sempre
 - **Valor:** Alto
