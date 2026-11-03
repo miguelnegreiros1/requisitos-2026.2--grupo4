@@ -40,7 +40,14 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 ---
 
-## 6. Necessidades e Funcionalidades
+## 6. Regras de Negócio (RN)
+
+* **RN01 - Critério de Elegibilidade Acadêmica:** O aluno só é elegível a candidatar-se caso possua entre 30% e 70% da carga horária concluída, média geral/IRA $\ge 7,0$ e zero reprovações em seu histórico acadêmico.
+* **RN02 - Imutabilidade de Dados Oficiais:** O aluno não pode editar manualmente suas notas, percentual de curso concluído ou histórico de reprovações; esses dados devem ser oriundos exclusivamente do sistema acadêmico oficial da universidade.
+* **RN03 - Limite de Inscrições Ativas:** Um estudante só pode ter no máximo **3** manifestações de interesse/candidaturas ativas simultaneamente em editais abertos.
+* **RN04 - Prazo Limite para Submissão:** Candidaturas e envios de documentação enviados após às 23h59 (horário de Brasília) da data de encerramento do edital devem ser rejeitados automaticamente pelo sistema.
+
+## 7. Necessidades e Funcionalidades
 
 ### Necessidade 1: Divulgação e Descoberta de Oportunidades (Estilo Rede Social)
 
