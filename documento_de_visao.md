@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição                                                        | Autor        |
 | ---------- | ------ | ---------------------------------------------------------------- | ------------ |
-| 03/11/2026 | 1.0    | Criação inicial do documento de visão para a Plataforma de Gestão de Oportunidades Acadêmicas Internacionais | Equipe do Projeto |
+| 03/11/2026 | 1.0    | Criação inicial do documento de visão para a Plataforma de Gestão de Oportunidades Acadêmicas Internacionais | Miguel Rodrigues |
 
 ## 1. Objetivo
 
@@ -80,14 +80,21 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 ### Necessidade 3: Validação de Elegibilidade e Submissão
 
-#### F3.1 Verificação Automática de Elegibilidade
+#### F3.3 Cadastro e Gestão de Perfil do Estudante
+- **Descrição:** Permite ao estudante criar e gerenciar seu perfil na plataforma. O sistema deve carregar automaticamente os dados acadêmicos oficiais do sistema institucional (curso, média global/IRA, % de carga horária concluída e histórico de reprovações) e permitir que o aluno complemente o perfil com foto, resumo/biografia, proficiência em idiomas e áreas de interesse para recomendação de oportunidades.
+- **Incluída**
+- **Atores:** Estudante de Graduação, Sistema Institucional
+- **Frequência:** Alta
+- **Valor:** Alto
+
+#### F3.2 Verificação Automática de Elegibilidade
 - **Descrição:** Cruzamento automático dos dados acadêmicos do aluno (ex: média global e percentual concluído) com as regras do edital para sinalizar se ele está apto a concorrer.
 - **Status:** Incluída
 - **Atores:** Sistema, Estudante
 - **Frequência:** Alta
 - **Valor:** Alto
 
-#### F3.2 Manifestação de Interesse e Acompanhamento
+#### F3.3 Manifestação de Interesse e Acompanhamento
 - **Descrição:** Permite ao estudante enviar a documentação necessária e acompanhar o status de sua candidatura em tempo real (em análise, aprovado, pendente).
 - **Status:** Incluída
 - **Atores:** Estudante, NEI
