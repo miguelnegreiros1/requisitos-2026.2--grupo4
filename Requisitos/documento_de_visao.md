@@ -34,7 +34,7 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 - **Descrição:** Aluno elegível (com 30% a 70% do curso concluído, média global $\ge 7,0$ e sem reprovações) que sonha em fazer intercâmbio, mas acha difícil acompanhar os editais espalhados em portais institucionais.
 - **Objetivo:** Encontrar oportunidades alinhadas ao seu perfil em um feed dinâmico, validar sua elegibilidade de forma rápida e candidatar-se sem fricção.
 
-### 5.2. Gestor do Núcleo de Estratégias Internacionais (Ex: Maria do NEI)
+### 5.2. Gestor do Núcleo de Estratégias Internacionais (Ex: Maria do DRI)
 - **Descrição:** Servidora responsável por gerenciar as parcerias internacionais e divulgar os editais de bolsas.
 - **Objetivo:** Cadastrar editais de forma centralizada, acompanhar o volume de manifestações de interesse e otimizar a comunicação com os alunos candidatos.
 
