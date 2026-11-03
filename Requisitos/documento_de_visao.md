@@ -26,7 +26,7 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 | Estudantes de Graduação      | Usuário Final   | Buscar oportunidades, verificar elegibilidade, submeter documentação e acompanhar status | -                       |
 | Universidades Estrangeiras Parceiras | Stakeholder Externo | Disponibilizar vagas, definir requisitos linguísticos e acadêmicos e receber os alunos | Instituições Parceiras  |
 | Coordenadores de Curso       | Stakeholder Indireto | Acompanhar alunos em mobilidade e apoiar equivalências de disciplinas | -                       |
-| Equipe de TI / Desenvolvimento | Desenvolvimento | Desenvolver, implantar e manter a infraestrutura técnica do sistema | Equipe do Projeto       |
+| Equipe de TI / Desenvolvimento | Desenvolvimento | Desenvolver, implantar e manter a infraestrutura técnica do sistema | Miguel Rodrigues       |
 
 ## 5. Personas
 
