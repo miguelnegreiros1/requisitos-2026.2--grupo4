@@ -8,7 +8,7 @@
 
 ## 1. Objetivo
 
-Definir a proposta de valor e o escopo da **Plataforma de Gestão de Oportunidades Acadêmicas Internacionais**, detalhando as necessidades dos estudantes de graduação, do Núcleo de Estratégias Internacionais (NEI), das universidades estrangeiras parceiras e dos coordenadores de curso.
+Definir a proposta de valor e o escopo da **Plataforma de Gestão de Oportunidades Acadêmicas Internacionais**, detalhando as necessidades dos estudantes de graduação, da Diretoria de Relações Internacionais (DRI), das universidades estrangeiras parceiras e dos coordenadores de curso.
 
 ## 2. Proposta de Valor
 
@@ -16,7 +16,7 @@ O sistema permitirá modernizar, organizar e dar maior visibilidade aos editais,
 
 ## 3. Descrição da Demanda
 
-A demanda consiste no desenvolvimento de um ecossistema digital integrado para gerenciar o ciclo de vida da internacionalização acadêmica. O sistema apoiará o NEI no cadastro centralizado de editais e bolsas, as universidades estrangeiras na divulgação de vagas e critérios específicos, e os estudantes na descoberta personalizada de oportunidades com base em seus perfis acadêmicos. O processo incluirá feed de notícias, filtros avançados, checagem automatizada de elegibilidade e acompanhamento em tempo real das candidaturas.
+A demanda consiste no desenvolvimento de um ecossistema digital integrado para gerenciar o ciclo de vida da internacionalização acadêmica. O sistema apoiará o DRI no cadastro centralizado de editais e bolsas, as universidades estrangeiras na divulgação de vagas e critérios específicos, e os estudantes na descoberta personalizada de oportunidades com base em seus perfis acadêmicos. O processo incluirá feed de notícias, filtros avançados, checagem automatizada de elegibilidade e acompanhamento em tempo real das candidaturas.
 
 ## 4. Partes Interessadas
 
@@ -68,14 +68,14 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 ### Necessidade 2: Gestão Institucional de Editais e Vagas
 
 #### F2.1 Cadastro e Edição de Editais
-- **Descrição:** Permite ao NEI cadastrar novos editais, especificando prazos, requisitos, número de vagas e documentação exigida.
-- **Atores:** NEI
+- **Descrição:** Permite a DRI cadastrar novos editais, especificando prazos, requisitos, número de vagas e documentação exigida.
+- **Atores:** DRI
 - **Frequência:** Média
 - **Valor:** Alto
 
 #### F2.2 Integração com Requisitos de Universidades Estrangeiras
 - **Descrição:** Permite vincular as vagas às exigências específicas das universidades parceiras (ex: proficiência em idiomas).
-- **Atores:** NEI, Universidades Estrangeiras
+- **Atores:** DRI, Universidades Estrangeiras
 - **Frequência:** Baixa
 - **Valor:** Médio
 
@@ -97,7 +97,7 @@ A demanda consiste no desenvolvimento de um ecossistema digital integrado para g
 
 #### F3.3 Manifestação de Interesse e Acompanhamento
 - **Descrição:** Permite ao estudante enviar a documentação necessária e acompanhar o status de sua candidatura em tempo real (em análise, aprovado, pendente).
-- **Atores:** Estudante, NEI
+- **Atores:** Estudante, DRI
 - **Frequência:** Alta
 - **Valor:** Alto
 
