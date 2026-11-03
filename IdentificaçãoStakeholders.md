@@ -11,7 +11,7 @@ Gestores responsáveis pela administração do sistema, incluindo o cadastro, a 
 ### 3. Alunos Estrangeiros
 Estudantes provenientes de outras instituições de ensino que são recebidos pela universidade. Necessitam de informações acessíveis, visibilidade sobre os processos institucionais e suporte durante sua experiência de mobilidade.
 
-### 5. Coordenadores de Curso e Professores
+### 4. Coordenadores de Curso e Professores
 Atores indiretos que acompanham os estudantes envolvidos em programas de mobilidade acadêmica e colaboram com o desenvolvimento e a manutenção de acordos de cooperação internacional.
 
 ### 5. Universidades Estrangeiras
