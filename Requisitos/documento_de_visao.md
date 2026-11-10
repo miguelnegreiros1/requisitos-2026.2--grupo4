@@ -4,12 +4,16 @@
 
 | Data       | Versão | Descrição                                                        | Autor        |
 | ---------- | ------ | ---------------------------------------------------------------- | ------------ |
-| 03/11/2026 | 1.0    | Criação inicial do documento de visão para a Plataforma de Gestão de Oportunidades Acadêmicas Internacionais | Miguel Rodrigues |
+| 03/11/2026 | 1.0    | Criação inicial do documento de visão para a plataforma HORIZON | Miguel Rodrigues |
 | 10/11/2026 | 1.1    | Restrição de escopo e público-alvo focados exclusivamente nos estudantes de graduação da UNIFOR e adição/organização de requisitos | Miguel Rodrigues |
 
 ## 1. Objetivo
 
-Definir a proposta de valor e o escopo da **Plataforma de Gestão de Oportunidades Acadêmicas Internacionais**, detalhando as necessidades dos estudantes de graduação da **UNIFOR**, da Diretoria de Relações Internacionais (DRI), das universidades estrangeiras parceiras e dos coordenadores de curso.
+Definir a proposta de valor e o escopo da **Plataforma de Gestão de Oportunidades Acadêmicas Internacionais "HORIZON"** , detalhando as necessidades dos estudantes de graduação da **UNIFOR**, da Diretoria de Relações Internacionais (DRI), das universidades estrangeiras parceiras e dos coordenadores de curso.
+
+<p align="center">
+  <img width="400" height="414" alt="paperclip07-earth-8549451_1280" src="https://github.com/user-attachments/assets/bdb1becb-1da6-4576-be81-7a619ca389f7" />
+</p>
 
 ## 2. Proposta de Valor
 
